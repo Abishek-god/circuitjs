@@ -8,9 +8,6 @@
 .project
 .settings/
 
-# Exclude source code (since we only need the built war/ directory)
-src/
-
 # Exclude test files
 tests/
 
